@@ -3,14 +3,13 @@
 
 Clone the repository:
 
-bash
-git clone 
+'git clone '
 Install dependencies:
 
 bash
-npm install
+´npm install`
 Start the backend server:
 
 bash
-npm run server
+`npm run server`
 Start the frontend:
